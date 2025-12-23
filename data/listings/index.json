@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "neuro-thrive",
-    "name": "Neuro-Thrive",
-    "category": "nootropics",
-    "featured": true,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:49:10.809Z"
-  },
-  {
     "id": "genius-wave",
     "name": "Genius Wave",
     "category": "nootropics",
@@ -281,6 +273,17 @@
     "updatedAt": "2025-12-23T12:53:51.969Z",
     "imageUrl": "https://images.unsplash.com/photo-1455642305367-68834a1da7ab?auto=format&fit=crop&q=80&w=800",
     "shortDescription": "Clinically studied sleep formula for falling asleep and staying asleep.",
+    "rating": 4.6
+  },
+  {
+    "id": "neuro-thrive",
+    "name": "Neuro-Thrive",
+    "category": "nootropics",
+    "featured": true,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:53:51.969Z",
+    "imageUrl": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800",
+    "shortDescription": "Advanced brain support formula for memory, focus, and cognitive clarity.",
     "rating": 4.6
   }
 ]
