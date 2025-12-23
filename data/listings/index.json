@@ -126,5 +126,13 @@
     "featured": false,
     "status": "published",
     "updatedAt": "2025-12-23T12:34:38.686Z"
+  },
+  {
+    "id": "joint-genesis",
+    "name": "Joint Genesis",
+    "category": "joint",
+    "featured": true,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:34:38.686Z"
   }
 ]
