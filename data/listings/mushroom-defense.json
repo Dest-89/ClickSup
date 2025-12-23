@@ -1,0 +1,46 @@
+{
+  "id": "mushroom-defense",
+  "name": "Mushroom Defense",
+  "brand": "FungiPure",
+  "category": "immune",
+  "shortDescription": "10-mushroom blend for immune support and overall vitality.",
+  "longDescription": "Mushroom Defense harnesses the power of 10 medicinal mushrooms traditionally used for immune support and overall health.\n\n## Ancient Wisdom, Modern Science\nMedicinal mushrooms have been used for thousands of years. Modern research confirms their immune-supporting properties.\n\n## Premium Extraction\nOur mushrooms are carefully extracted to ensure maximum bioavailability of active compounds.",
+  "ingredients": [
+    "Reishi",
+    "Chaga",
+    "Lion's Mane",
+    "Turkey Tail",
+    "Shiitake",
+    "Maitake",
+    "Cordyceps",
+    "Agarikon",
+    "Meshima",
+    "Royal Sun"
+  ],
+  "benefits": [
+    "Comprehensive immune support",
+    "Promotes vitality",
+    "Supports stress response",
+    "Enhances overall wellness"
+  ],
+  "warnings": [
+    "Not for those with mushroom allergies",
+    "Consult doctor if on medications",
+    "May take time for full benefits"
+  ],
+  "priceDisclaimer": "Organic mushrooms. Third-party tested.",
+  "affiliateHoplink": "https://hop.clickbank.net/?affiliate=dst11&vendor=mushroomdef",
+  "rating": 4.4,
+  "tags": [
+    "immune",
+    "mushrooms",
+    "natural",
+    "vitality",
+    "adaptogens"
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&q=80&w=800",
+  "featured": false,
+  "status": "published",
+  "createdAt": "2025-12-23T12:34:38.686Z",
+  "updatedAt": "2025-12-23T12:34:38.686Z"
+}
