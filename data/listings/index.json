@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "genius-wave",
-    "name": "Genius Wave",
-    "category": "nootropics",
-    "featured": false,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:49:10.809Z"
-  },
-  {
     "id": "mind-vitality",
     "name": "Mind Vitality",
     "category": "nootropics",
@@ -285,5 +277,16 @@
     "imageUrl": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800",
     "shortDescription": "Advanced brain support formula for memory, focus, and cognitive clarity.",
     "rating": 4.6
+  },
+  {
+    "id": "genius-wave",
+    "name": "Genius Wave",
+    "category": "nootropics",
+    "featured": false,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:53:51.969Z",
+    "imageUrl": "https://images.unsplash.com/photo-1617791160505-6f00504e3519?auto=format&fit=crop&q=80&w=800",
+    "shortDescription": "Theta brainwave audio program combined with cognitive nutrients.",
+    "rating": 4.4
   }
 ]
