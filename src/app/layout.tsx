@@ -1,14 +1,25 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { DM_Sans, Fraunces } from "next/font/google";
 import "./globals.css";
 import { Toaster } from "@/components/ui/sonner";
 import { seedIfEmpty } from "@/lib/seed";
 
-const inter = Inter({ subsets: ["latin"] });
+const dmSans = DM_Sans({
+  subsets: ["latin"],
+  variable: "--font-body",
+  display: "swap",
+});
+
+const fraunces = Fraunces({
+  subsets: ["latin"],
+  variable: "--font-display",
+  display: "swap",
+});
 
 export const metadata: Metadata = {
-  title: "ClickBank Supplement Directory",
-  description: "Find the best supplements on ClickBank",
+  title: "ToriToriLand | Premium Health Supplements Directory",
+  description: "Discover trusted, high-quality health supplements for weight loss, energy, sleep, brain health, and more. Expert reviews and wellness insights.",
+  keywords: "supplements, health, wellness, vitamins, weight loss, energy, sleep, nootropics",
 };
 
 export default async function RootLayout({
@@ -22,7 +33,7 @@ export default async function RootLayout({
   const gtmId = process.env.GTM_ID;
 
   return (
-    <html lang="en">
+    <html lang="en" className={`${dmSans.variable} ${fraunces.variable}`}>
       <head>
         {/* Google Tag Manager Placeholder */}
         {gtmId && (
@@ -37,7 +48,7 @@ export default async function RootLayout({
           />
         )}
       </head>
-      <body className={inter.className}>
+      <body className="font-body antialiased">
         {gtmId && (
           <noscript>
             <iframe
