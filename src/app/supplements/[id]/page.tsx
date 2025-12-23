@@ -19,9 +19,10 @@ export async function generateStaticParams() {
   return listings.map((l: any) => ({ id: l.id }));
 }
 
-export default async function SupplementDetail({ params }: { params: { id: string } }) {
+export default async function SupplementDetail({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
   const [listing, settings] = await Promise.all([
-    getListing(params.id),
+    getListing(id),
     getSettings(),
   ]);
 

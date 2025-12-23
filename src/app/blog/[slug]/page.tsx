@@ -9,8 +9,9 @@ export async function generateStaticParams() {
   return posts.map((p: any) => ({ slug: p.slug }));
 }
 
-export default async function BlogPost({ params }: { params: { slug: string } }) {
-  const rawContent = await getPost(params.slug);
+export default async function BlogPost({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const rawContent = await getPost(slug);
 
   if (!rawContent) {
     notFound();
