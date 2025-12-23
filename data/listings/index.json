@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "synogut",
-    "name": "SynoGut",
-    "category": "gut",
-    "featured": true,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:49:10.809Z"
-  },
-  {
     "id": "biofit",
     "name": "BioFit",
     "category": "gut",
@@ -300,5 +292,16 @@
     "imageUrl": "https://images.unsplash.com/photo-1598046937895-2be846e03f0e?auto=format&fit=crop&q=80&w=800",
     "shortDescription": "Delicious CBD-infused gummies for joint comfort and mobility support.",
     "rating": 4.4
+  },
+  {
+    "id": "synogut",
+    "name": "SynoGut",
+    "category": "gut",
+    "featured": true,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:53:51.969Z",
+    "imageUrl": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&q=80&w=800",
+    "shortDescription": "Natural digestive support with fiber, probiotics, and soothing herbs.",
+    "rating": 4.5
   }
 ]
