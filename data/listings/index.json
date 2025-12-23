@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "keto-complete",
-    "name": "Keto Complete",
-    "category": "keto",
-    "featured": true,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:48:06.426Z"
-  },
-  {
     "id": "keto-trim",
     "name": "Keto Trim",
     "category": "keto",
@@ -244,6 +236,14 @@
     "name": "Vitamin D3 + K2",
     "category": "immune",
     "featured": false,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:49:10.809Z"
+  },
+  {
+    "id": "keto-complete",
+    "name": "Keto Complete",
+    "category": "keto",
+    "featured": true,
     "status": "published",
     "updatedAt": "2025-12-23T12:49:10.809Z"
   }
