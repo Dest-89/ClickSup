@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "sugar-defender",
-    "name": "Sugar Defender",
-    "category": "other",
-    "featured": false,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:49:10.809Z"
-  },
-  {
     "id": "quietum-plus",
     "name": "Quietum Plus",
     "category": "other",
@@ -330,5 +322,16 @@
     "imageUrl": "https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&q=80&w=800",
     "shortDescription": "Probiotic candy with 3.5 billion CFU for oral health and fresh breath.",
     "rating": 4.6
+  },
+  {
+    "id": "sugar-defender",
+    "name": "Sugar Defender",
+    "category": "other",
+    "featured": false,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:53:51.969Z",
+    "imageUrl": "https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&q=80&w=800",
+    "shortDescription": "Natural blood sugar support formula with 24 powerful ingredients.",
+    "rating": 4.5
   }
 ]
