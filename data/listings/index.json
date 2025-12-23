@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "synogut",
-    "name": "SynoGut",
-    "category": "gut",
-    "featured": true,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:48:06.426Z"
-  },
-  {
     "id": "biofit",
     "name": "BioFit",
     "category": "gut",
@@ -244,6 +236,14 @@
     "name": "Joint Restore Gummies",
     "category": "joint",
     "featured": false,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:49:10.809Z"
+  },
+  {
+    "id": "synogut",
+    "name": "SynoGut",
+    "category": "gut",
+    "featured": true,
     "status": "published",
     "updatedAt": "2025-12-23T12:49:10.809Z"
   }
