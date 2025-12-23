@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "mitolyn",
-    "name": "Mitolyn",
-    "category": "fat-loss",
-    "featured": true,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:48:06.426Z"
-  },
-  {
     "id": "java-burn",
     "name": "Java Burn",
     "category": "fat-loss",
@@ -246,5 +238,13 @@
     "featured": false,
     "status": "published",
     "updatedAt": "2025-12-23T12:48:06.426Z"
+  },
+  {
+    "id": "mitolyn",
+    "name": "Mitolyn",
+    "category": "fat-loss",
+    "featured": true,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:49:10.809Z"
   }
 ]
