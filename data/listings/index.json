@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "mind-vitality",
-    "name": "Mind Vitality",
-    "category": "nootropics",
-    "featured": false,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:49:10.809Z"
-  },
-  {
     "id": "joint-genesis",
     "name": "Joint Genesis",
     "category": "joint",
@@ -288,5 +280,16 @@
     "imageUrl": "https://images.unsplash.com/photo-1617791160505-6f00504e3519?auto=format&fit=crop&q=80&w=800",
     "shortDescription": "Theta brainwave audio program combined with cognitive nutrients.",
     "rating": 4.4
+  },
+  {
+    "id": "mind-vitality",
+    "name": "Mind Vitality",
+    "category": "nootropics",
+    "featured": false,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:53:51.969Z",
+    "imageUrl": "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?auto=format&fit=crop&q=80&w=800",
+    "shortDescription": "All-day nootropic stack for sustained mental energy without crashes.",
+    "rating": 4.5
   }
 ]
