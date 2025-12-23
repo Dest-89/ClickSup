@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "gut-vita",
-    "name": "Gut Vita",
-    "category": "gut",
-    "featured": false,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:48:06.426Z"
-  },
-  {
     "id": "immune-defense-4x",
     "name": "Immune Defense 4X",
     "category": "immune",
@@ -242,6 +234,14 @@
   {
     "id": "biofit",
     "name": "BioFit",
+    "category": "gut",
+    "featured": false,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:49:10.809Z"
+  },
+  {
+    "id": "gut-vita",
+    "name": "Gut Vita",
     "category": "gut",
     "featured": false,
     "status": "published",
