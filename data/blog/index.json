@@ -6,12 +6,6 @@
     "updatedAt": "2025-12-23T08:11:15.705Z"
   },
   {
-    "slug": "natural-weight-management-tips",
-    "title": "5 Natural Weight Management Tips",
-    "status": "published",
-    "updatedAt": "2025-12-23T12:49:45.276Z"
-  },
-  {
     "slug": "mens-health-after-40",
     "title": "Men's Health After 40: A Complete Guide",
     "status": "published",
@@ -50,6 +44,12 @@
   {
     "slug": "science-behind-metabolism-boosters",
     "title": "The Science Behind Metabolism Boosters",
+    "status": "published",
+    "updatedAt": "2025-12-23T12:54:27.962Z"
+  },
+  {
+    "slug": "natural-weight-management-tips",
+    "title": "5 Natural Weight Management Tips",
     "status": "published",
     "updatedAt": "2025-12-23T12:54:27.962Z"
   }
