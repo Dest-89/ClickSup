@@ -1,0 +1,42 @@
+{
+  "id": "joint-restore-gummies",
+  "name": "Joint Restore Gummies",
+  "brand": "Prosper Wellness",
+  "category": "joint",
+  "shortDescription": "Delicious CBD-infused gummies for joint comfort and mobility support.",
+  "longDescription": "Joint Restore Gummies combine the power of CBD with traditional joint-supporting nutrients in a delicious, easy-to-take gummy form.\n\n## CBD + Joint Nutrients\nThe combination of CBD with proven joint-support ingredients offers comprehensive support for comfort and mobility.\n\n## Great Taste\nNo more choking down pills - these gummies taste great and make daily joint support easy.",
+  "ingredients": [
+    "Full Spectrum CBD",
+    "Boswellia",
+    "Turmeric",
+    "Glucosamine",
+    "Chondroitin",
+    "Vitamin D"
+  ],
+  "benefits": [
+    "Supports joint comfort",
+    "Promotes mobility",
+    "Easy to take",
+    "Great tasting"
+  ],
+  "warnings": [
+    "Check local CBD laws",
+    "May cause drowsiness",
+    "Not for pregnant women"
+  ],
+  "priceDisclaimer": "THC-free formula. Lab tested.",
+  "affiliateHoplink": "https://hop.clickbank.net/?affiliate=dst11&vendor=jointgummies",
+  "rating": 4.4,
+  "tags": [
+    "joint",
+    "cbd",
+    "gummies",
+    "mobility",
+    "comfort"
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1598046937895-2be846e03f0e?auto=format&fit=crop&q=80&w=800",
+  "featured": false,
+  "status": "published",
+  "createdAt": "2025-12-23T12:34:38.686Z",
+  "updatedAt": "2025-12-23T12:34:38.686Z"
+}
