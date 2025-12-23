@@ -20,7 +20,7 @@ async function ghFetch(path: string, options: RequestInit = {}) {
     },
   });
 
-  if (res.status === 404 && options.method === "GET") {
+  if (res.status === 404 && (!options.method || options.method === "GET")) {
     return null;
   }
 
