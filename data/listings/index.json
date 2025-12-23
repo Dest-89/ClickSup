@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "alpha-tonic",
-    "name": "Alpha Tonic",
-    "category": "testosterone",
-    "featured": false,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:49:10.809Z"
-  },
-  {
     "id": "red-boost",
     "name": "Red Boost",
     "category": "testosterone",
@@ -264,5 +256,16 @@
     "imageUrl": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&q=80&w=800",
     "shortDescription": "Premium prostate support formula with 9 natural ingredients for men's health.",
     "rating": 4.7
+  },
+  {
+    "id": "alpha-tonic",
+    "name": "Alpha Tonic",
+    "category": "testosterone",
+    "featured": false,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:53:51.969Z",
+    "imageUrl": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&q=80&w=800",
+    "shortDescription": "Himalayan-inspired vitality powder for men's energy and performance.",
+    "rating": 4.5
   }
 ]
