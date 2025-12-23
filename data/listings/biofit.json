@@ -1,0 +1,43 @@
+{
+  "id": "biofit",
+  "name": "BioFit",
+  "brand": "BioFit",
+  "category": "gut",
+  "shortDescription": "7-strain probiotic blend for weight management and gut health.",
+  "longDescription": "BioFit is a probiotic supplement featuring 7 carefully selected bacterial strains designed to support gut health and healthy weight management.\n\n## The Gut-Weight Connection\nResearch shows that gut bacteria play a significant role in metabolism and weight management. BioFit targets this connection.\n\n## 7 Powerful Strains\nEach strain is chosen for its specific benefits and ability to survive stomach acid.",
+  "ingredients": [
+    "Lactobacillus Rhamnosus",
+    "Lactobacillus Casei",
+    "Lactobacillus Plantarum",
+    "Lactobacillus Acidophilus",
+    "Bacillus Subtilis",
+    "Bifidobacterium Longum",
+    "Bifidobacterium Breve"
+  ],
+  "benefits": [
+    "Supports healthy gut",
+    "Promotes metabolism",
+    "Aids nutrient absorption",
+    "Supports immune function"
+  ],
+  "warnings": [
+    "May cause initial digestive adjustment",
+    "Store in cool place",
+    "Consult doctor if immunocompromised"
+  ],
+  "priceDisclaimer": "Bulk discounts. 180-day guarantee.",
+  "affiliateHoplink": "https://hop.clickbank.net/?affiliate=dst11&vendor=biofitsupp",
+  "rating": 4.4,
+  "tags": [
+    "probiotics",
+    "gut",
+    "metabolism",
+    "weight-loss",
+    "digestion"
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&q=80&w=800",
+  "featured": false,
+  "status": "published",
+  "createdAt": "2025-12-23T12:34:38.686Z",
+  "updatedAt": "2025-12-23T12:34:38.686Z"
+}
