@@ -38,5 +38,13 @@
     "featured": false,
     "status": "published",
     "updatedAt": "2025-12-23T12:34:38.686Z"
+  },
+  {
+    "id": "all-day-slimming-tea",
+    "name": "All Day Slimming Tea",
+    "category": "fat-loss",
+    "featured": true,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:34:38.686Z"
   }
 ]
