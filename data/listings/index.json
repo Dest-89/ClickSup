@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "sumatra-slim-belly-tonic",
-    "name": "Sumatra Slim Belly Tonic",
-    "category": "fat-loss",
-    "featured": false,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:34:38.686Z"
-  },
-  {
     "id": "all-day-slimming-tea",
     "name": "All Day Slimming Tea",
     "category": "fat-loss",
@@ -242,6 +234,14 @@
   {
     "id": "puravive",
     "name": "Puravive",
+    "category": "fat-loss",
+    "featured": false,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:48:06.426Z"
+  },
+  {
+    "id": "sumatra-slim-belly-tonic",
+    "name": "Sumatra Slim Belly Tonic",
     "category": "fat-loss",
     "featured": false,
     "status": "published",
