@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "gear-reviews",
+    "name": "Gear Reviews",
+    "description": "Optics, packs, boots, and field gear—what's worth carrying."
+  },
+  {
+    "slug": "hunting-techniques",
+    "name": "Hunting Techniques",
+    "description": "Scouting, setups, wind, tracking, and ethical shot prep."
+  },
+  {
+    "slug": "wild-game-cooking",
+    "name": "Wild Game Cooking",
+    "description": "Field-to-table recipes, prep, storage, and cooking tips."
+  },
+  {
+    "slug": "survival-camp-skills",
+    "name": "Survival & Camp Skills",
+    "description": "Fire, water, shelter, navigation—stay safe and stay out longer."
+  },
+  {
+    "slug": "hampton-area-hunting-intel",
+    "name": "Hampton Area Hunting Intel",
+    "description": "Local notes, seasons, access planning, and trip checklists for Hampton-region hunters."
+  }
+]

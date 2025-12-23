@@ -1,0 +1,50 @@
+[
+  {
+    "id": "fat-loss",
+    "name": "Weight Loss",
+    "description": "Metabolism boosters and weight management supplements",
+    "icon": "scale"
+  },
+  {
+    "id": "testosterone",
+    "name": "Men's Health",
+    "description": "Testosterone support and men's vitality products",
+    "icon": "activity"
+  },
+  {
+    "id": "sleep",
+    "name": "Sleep Support",
+    "description": "Natural sleep aids and recovery supplements",
+    "icon": "moon"
+  },
+  {
+    "id": "nootropics",
+    "name": "Brain Health",
+    "description": "Cognitive enhancement and focus supplements",
+    "icon": "brain"
+  },
+  {
+    "id": "joint",
+    "name": "Joint Care",
+    "description": "Joint health and mobility support",
+    "icon": "bone"
+  },
+  {
+    "id": "gut",
+    "name": "Gut Health",
+    "description": "Digestive health and probiotic supplements",
+    "icon": "heart"
+  },
+  {
+    "id": "immune",
+    "name": "Immunity",
+    "description": "Immune system support supplements",
+    "icon": "shield"
+  },
+  {
+    "id": "keto",
+    "name": "Keto Diet",
+    "description": "Ketogenic diet support supplements",
+    "icon": "zap"
+  }
+]

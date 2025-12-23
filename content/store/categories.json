@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "optics-glass",
+    "name": "Optics & Glass",
+    "description": "Binoculars, scopes, mounts, rangefinders—see more, miss less."
+  },
+  {
+    "slug": "field-essentials",
+    "name": "Field Essentials",
+    "description": "Packs, knives, headlamps, kits—stuff you actually use."
+  },
+  {
+    "slug": "apparel-footwear",
+    "name": "Apparel & Footwear",
+    "description": "Layers, boots, gloves, rain gear—comfort buys time outside."
+  },
+  {
+    "slug": "game-processing",
+    "name": "Game Processing",
+    "description": "Gloves, bags, sharpeners, grinders—clean, fast, and safe."
+  }
+]
