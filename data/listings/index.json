@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "sleep-guard-plus",
-    "name": "Sleep Guard Plus",
-    "category": "sleep",
-    "featured": false,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:34:38.686Z"
-  },
-  {
     "id": "relaxium-sleep",
     "name": "Relaxium Sleep",
     "category": "sleep",
@@ -244,6 +236,14 @@
     "name": "Resurge",
     "category": "sleep",
     "featured": true,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:48:06.426Z"
+  },
+  {
+    "id": "sleep-guard-plus",
+    "name": "Sleep Guard Plus",
+    "category": "sleep",
+    "featured": false,
     "status": "published",
     "updatedAt": "2025-12-23T12:48:06.426Z"
   }
