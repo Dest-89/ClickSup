@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "balmorex-pro",
-    "name": "Balmorex Pro",
-    "category": "joint",
-    "featured": false,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:34:38.686Z"
-  },
-  {
     "id": "joint-restore-gummies",
     "name": "Joint Restore Gummies",
     "category": "joint",
@@ -244,6 +236,14 @@
     "name": "Joint Genesis",
     "category": "joint",
     "featured": true,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:48:06.426Z"
+  },
+  {
+    "id": "balmorex-pro",
+    "name": "Balmorex Pro",
+    "category": "joint",
+    "featured": false,
     "status": "published",
     "updatedAt": "2025-12-23T12:48:06.426Z"
   }
