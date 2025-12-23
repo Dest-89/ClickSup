@@ -120,7 +120,7 @@ export async function upsertListing(listing: any) {
   // Update individual file
   await upsertFile(`data/listings/${listing.id}.json`, JSON.stringify(listing, null, 2), `Update listing ${listing.id}`);
   
-  // Update index
+  // Update index with fields needed for card display
   const index = await listListings();
   const filtered = index.filter((item: any) => item.id !== listing.id);
   filtered.push({
@@ -130,6 +130,10 @@ export async function upsertListing(listing: any) {
     featured: listing.featured,
     status: listing.status,
     updatedAt: listing.updatedAt,
+    // Card display fields
+    imageUrl: listing.imageUrl,
+    shortDescription: listing.shortDescription,
+    rating: listing.rating,
   });
   await upsertFile("data/listings/index.json", JSON.stringify(filtered, null, 2), "Update listings index");
 }
