@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "quietum-plus",
-    "name": "Quietum Plus",
-    "category": "other",
-    "featured": false,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:48:06.426Z"
-  },
-  {
     "id": "mitolyn",
     "name": "Mitolyn",
     "category": "fat-loss",
@@ -242,6 +234,14 @@
   {
     "id": "sugar-defender",
     "name": "Sugar Defender",
+    "category": "other",
+    "featured": false,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:49:10.809Z"
+  },
+  {
+    "id": "quietum-plus",
+    "name": "Quietum Plus",
     "category": "other",
     "featured": false,
     "status": "published",
