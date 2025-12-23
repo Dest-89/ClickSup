@@ -110,5 +110,13 @@
     "featured": true,
     "status": "published",
     "updatedAt": "2025-12-23T12:34:38.686Z"
+  },
+  {
+    "id": "genius-wave",
+    "name": "Genius Wave",
+    "category": "nootropics",
+    "featured": false,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:34:38.686Z"
   }
 ]
