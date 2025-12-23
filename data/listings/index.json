@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "keto-trim",
-    "name": "Keto Trim",
-    "category": "keto",
-    "featured": false,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:49:10.809Z"
-  },
-  {
     "id": "perfect-keto-mct",
     "name": "Perfect Keto MCT Oil",
     "category": "keto",
@@ -321,5 +313,16 @@
     "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&q=80&w=800",
     "shortDescription": "Exogenous ketones to support ketosis and boost mental and physical energy.",
     "rating": 4.5
+  },
+  {
+    "id": "keto-trim",
+    "name": "Keto Trim",
+    "category": "keto",
+    "featured": false,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:53:51.969Z",
+    "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&q=80&w=800",
+    "shortDescription": "Advanced keto formula with forskolin for enhanced fat burning and metabolism.",
+    "rating": 4.3
   }
 ]
