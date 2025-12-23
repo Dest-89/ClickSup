@@ -1,0 +1,44 @@
+{
+  "id": "all-day-slimming-tea",
+  "name": "All Day Slimming Tea",
+  "brand": "All Day Slimming Tea",
+  "category": "fat-loss",
+  "shortDescription": "Natural tea blend inspired by Costa Rican Blue Zone for metabolism and detox.",
+  "longDescription": "All Day Slimming Tea was the #1 supplement of 2024, featuring a natural tea blend inspired by traditional recipes from the Nicoya Peninsula in Costa Rica - one of the world's famous Blue Zones.\n\n## Two-Tea System\n- **Morning Tea**: Green Tea, Oolong, and energizing herbs to kickstart metabolism\n- **Evening Tea**: Calming blend to support detox and restful sleep\n\n## Blue Zone Inspired\nPeople in Blue Zones are known for their longevity and healthy weight. This tea captures traditional wisdom.",
+  "ingredients": [
+    "Green Tea",
+    "Oolong Tea",
+    "Garcinia Cambogia",
+    "Ginseng Root",
+    "Monk Fruit",
+    "Dandelion",
+    "Ginger",
+    "Orange Peel"
+  ],
+  "benefits": [
+    "Elevates metabolism naturally",
+    "Supports healthy detox",
+    "Promotes better sleep",
+    "Blocks fat storage"
+  ],
+  "warnings": [
+    "Contains caffeine in morning tea",
+    "Not for children",
+    "Pregnant women should consult doctor"
+  ],
+  "priceDisclaimer": "Subscribe and save available.",
+  "affiliateHoplink": "https://hop.clickbank.net/?affiliate=dst11&vendor=slimtea",
+  "rating": 4.7,
+  "tags": [
+    "tea",
+    "detox",
+    "metabolism",
+    "natural",
+    "sleep"
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&q=80&w=800",
+  "featured": true,
+  "status": "published",
+  "createdAt": "2025-12-23T12:34:38.686Z",
+  "updatedAt": "2025-12-23T12:34:38.686Z"
+}
