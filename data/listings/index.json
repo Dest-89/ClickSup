@@ -222,5 +222,13 @@
     "featured": false,
     "status": "published",
     "updatedAt": "2025-12-23T12:34:38.686Z"
+  },
+  {
+    "id": "prodentim",
+    "name": "ProDentim",
+    "category": "other",
+    "featured": true,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:34:38.686Z"
   }
 ]
