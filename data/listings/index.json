@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "all-day-slimming-tea",
-    "name": "All Day Slimming Tea",
-    "category": "fat-loss",
-    "featured": true,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:49:10.809Z"
-  },
-  {
     "id": "prostadine",
     "name": "Prostadine",
     "category": "testosterone",
@@ -258,5 +250,16 @@
     "imageUrl": "https://images.unsplash.com/photo-1622597467836-f3285f2131b8?auto=format&fit=crop&q=80&w=800",
     "shortDescription": "The 'Blue Tonic' phenomenon - ancient Sumatran recipe for belly fat support.",
     "rating": 4.4
+  },
+  {
+    "id": "all-day-slimming-tea",
+    "name": "All Day Slimming Tea",
+    "category": "fat-loss",
+    "featured": true,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:53:51.969Z",
+    "imageUrl": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&q=80&w=800",
+    "shortDescription": "Natural tea blend inspired by Costa Rican Blue Zone for metabolism and detox.",
+    "rating": 4.7
   }
 ]
