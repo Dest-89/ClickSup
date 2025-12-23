@@ -1,0 +1,42 @@
+{
+  "id": "keto-complete",
+  "name": "Keto Complete",
+  "brand": "Keto Complete",
+  "category": "keto",
+  "shortDescription": "Exogenous ketones to support ketosis and boost mental and physical energy.",
+  "longDescription": "Keto Complete provides your body with exogenous ketones (BHB) to help support and maintain ketosis even when dietary carbs sneak in.\n\n## Instant Ketone Boost\nInstead of waiting days to produce ketones through fasting, get an immediate supply of clean-burning ketones.\n\n## Perfect for Keto Dieters\nWhether you're new to keto or an experienced practitioner, Keto Complete supports your ketogenic lifestyle.",
+  "ingredients": [
+    "Beta-Hydroxybutyrate (BHB)",
+    "Calcium BHB",
+    "Magnesium BHB",
+    "Sodium BHB",
+    "MCT Oil Powder",
+    "Green Tea Extract"
+  ],
+  "benefits": [
+    "Supports ketosis",
+    "Boosts mental clarity",
+    "Enhances physical energy",
+    "Helps reduce carb cravings"
+  ],
+  "warnings": [
+    "May cause keto flu symptoms initially",
+    "Stay hydrated",
+    "Not for type 1 diabetics"
+  ],
+  "priceDisclaimer": "Multi-bottle discounts available.",
+  "affiliateHoplink": "https://hop.clickbank.net/?affiliate=dst11&vendor=ketocomplete",
+  "rating": 4.5,
+  "tags": [
+    "keto",
+    "ketones",
+    "bhb",
+    "energy",
+    "weight-loss"
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&q=80&w=800",
+  "featured": true,
+  "status": "published",
+  "createdAt": "2025-12-23T12:34:38.686Z",
+  "updatedAt": "2025-12-23T12:34:38.686Z"
+}
