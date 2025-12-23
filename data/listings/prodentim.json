@@ -1,0 +1,43 @@
+{
+  "id": "prodentim",
+  "name": "ProDentim",
+  "brand": "ProDentim",
+  "category": "other",
+  "shortDescription": "Probiotic candy with 3.5 billion CFU for oral health and fresh breath.",
+  "longDescription": "ProDentim is a unique oral health probiotic featuring 3.5 billion colony-forming units of beneficial bacteria designed specifically for your mouth.\n\n## Oral Microbiome Support\nYour mouth has its own ecosystem of bacteria. ProDentim introduces beneficial strains to support oral health.\n\n## Delicious Dissolvable Tablet\nUnlike pills you swallow, ProDentim dissolves in your mouth to deliver probiotics right where they're needed.",
+  "ingredients": [
+    "Lactobacillus Reuteri",
+    "Lactobacillus Paracasei",
+    "B.lactis BL-04",
+    "Inulin",
+    "Malic Acid",
+    "Tricalcium Phosphate",
+    "Peppermint"
+  ],
+  "benefits": [
+    "Supports oral health",
+    "Promotes fresh breath",
+    "Supports gum health",
+    "Whitens teeth naturally"
+  ],
+  "warnings": [
+    "Not a replacement for dental care",
+    "Consult dentist if issues persist",
+    "For adult use"
+  ],
+  "priceDisclaimer": "60-day money-back guarantee.",
+  "affiliateHoplink": "https://hop.clickbank.net/?affiliate=dst11&vendor=prodentim",
+  "rating": 4.6,
+  "tags": [
+    "oral-health",
+    "probiotics",
+    "teeth",
+    "gums",
+    "breath"
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&q=80&w=800",
+  "featured": true,
+  "status": "published",
+  "createdAt": "2025-12-23T12:34:38.686Z",
+  "updatedAt": "2025-12-23T12:34:38.686Z"
+}
