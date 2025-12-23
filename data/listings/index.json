@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "alpha-tonic",
-    "name": "Alpha Tonic",
-    "category": "testosterone",
-    "featured": false,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:34:38.686Z"
-  },
-  {
     "id": "red-boost",
     "name": "Red Boost",
     "category": "testosterone",
@@ -244,6 +236,14 @@
     "name": "Prostadine",
     "category": "testosterone",
     "featured": true,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:48:06.426Z"
+  },
+  {
+    "id": "alpha-tonic",
+    "name": "Alpha Tonic",
+    "category": "testosterone",
+    "featured": false,
     "status": "published",
     "updatedAt": "2025-12-23T12:48:06.426Z"
   }
