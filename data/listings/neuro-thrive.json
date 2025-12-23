@@ -1,0 +1,43 @@
+{
+  "id": "neuro-thrive",
+  "name": "Neuro-Thrive",
+  "brand": "Neuro-Thrive",
+  "category": "nootropics",
+  "shortDescription": "Advanced brain support formula for memory, focus, and cognitive clarity.",
+  "longDescription": "Neuro-Thrive is designed to support brain health using PQQ (Pyrroloquinoline Quinone) and other powerful ingredients that support memory and cognitive function.\n\n## The PQQ Advantage\nPQQ is a unique nutrient that supports mitochondrial function in brain cells, promoting mental energy and clarity.\n\n## Comprehensive Brain Support\nFrom memory to focus to mental processing speed, Neuro-Thrive addresses multiple aspects of cognitive health.",
+  "ingredients": [
+    "PQQ",
+    "Bacopa Monnieri",
+    "Alpha GPC",
+    "GABA",
+    "Vitamin D3",
+    "Vitamin B Complex",
+    "Phosphatidylserine"
+  ],
+  "benefits": [
+    "Supports memory recall",
+    "Enhances mental clarity",
+    "Promotes focus and concentration",
+    "Supports brain cell health"
+  ],
+  "warnings": [
+    "Consult doctor before use",
+    "Not for children",
+    "May interact with certain medications"
+  ],
+  "priceDisclaimer": "60-day money-back guarantee.",
+  "affiliateHoplink": "https://hop.clickbank.net/?affiliate=dst11&vendor=neurothrive",
+  "rating": 4.6,
+  "tags": [
+    "brain",
+    "memory",
+    "focus",
+    "nootropic",
+    "cognitive"
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800",
+  "featured": true,
+  "status": "published",
+  "createdAt": "2025-12-23T12:34:38.686Z",
+  "updatedAt": "2025-12-23T12:34:38.686Z"
+}
