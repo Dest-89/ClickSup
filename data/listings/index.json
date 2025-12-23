@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "resurge",
-    "name": "Resurge",
-    "category": "sleep",
-    "featured": true,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:49:10.809Z"
-  },
-  {
     "id": "sleep-guard-plus",
     "name": "Sleep Guard Plus",
     "category": "sleep",
@@ -273,5 +265,16 @@
     "imageUrl": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&q=80&w=800",
     "shortDescription": "Advanced male health formula supporting natural testosterone and endurance.",
     "rating": 4.3
+  },
+  {
+    "id": "resurge",
+    "name": "Resurge",
+    "category": "sleep",
+    "featured": true,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:53:51.969Z",
+    "imageUrl": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&q=80&w=800",
+    "shortDescription": "Deep sleep and metabolic support formula for overnight restoration.",
+    "rating": 4.5
   }
 ]
