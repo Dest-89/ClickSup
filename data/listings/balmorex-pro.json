@@ -1,0 +1,45 @@
+{
+  "id": "balmorex-pro",
+  "name": "Balmorex Pro",
+  "brand": "Balmorex",
+  "category": "joint",
+  "shortDescription": "27-in-1 topical formula for joint and back support with fast-acting relief.",
+  "longDescription": "Balmorex Pro is a powerful topical cream featuring 27 natural ingredients designed to provide fast-acting support for joints, back, and muscles.\n\n## Non-Greasy Formula\nUnlike many topical products, Balmorex Pro absorbs quickly without leaving a greasy residue.\n\n## Versatile Use\nApply to any area needing support - knees, back, shoulders, hands, or anywhere you need it.",
+  "ingredients": [
+    "MSM",
+    "Arnica Oil",
+    "Hemp Seed Oil",
+    "Indian Frankincense",
+    "Epsom Salt",
+    "Aloe Vera",
+    "Menthol",
+    "Camphor",
+    "Shea Butter"
+  ],
+  "benefits": [
+    "Fast-acting formula",
+    "Non-greasy absorption",
+    "Supports multiple areas",
+    "Natural ingredients"
+  ],
+  "warnings": [
+    "For external use only",
+    "Avoid contact with eyes",
+    "Test on small area first"
+  ],
+  "priceDisclaimer": "Buy more, save more pricing.",
+  "affiliateHoplink": "https://hop.clickbank.net/?affiliate=dst11&vendor=balmorex",
+  "rating": 4.5,
+  "tags": [
+    "joint",
+    "topical",
+    "back-pain",
+    "cream",
+    "natural"
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800",
+  "featured": false,
+  "status": "published",
+  "createdAt": "2025-12-23T12:34:38.686Z",
+  "updatedAt": "2025-12-23T12:34:38.686Z"
+}
