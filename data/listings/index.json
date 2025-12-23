@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "mind-vitality",
-    "name": "Mind Vitality",
-    "category": "nootropics",
-    "featured": false,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:48:06.426Z"
-  },
-  {
     "id": "joint-genesis",
     "name": "Joint Genesis",
     "category": "joint",
@@ -242,6 +234,14 @@
   {
     "id": "genius-wave",
     "name": "Genius Wave",
+    "category": "nootropics",
+    "featured": false,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:49:10.809Z"
+  },
+  {
+    "id": "mind-vitality",
+    "name": "Mind Vitality",
     "category": "nootropics",
     "featured": false,
     "status": "published",
