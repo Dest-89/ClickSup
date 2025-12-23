@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "puravive",
-    "name": "Puravive",
-    "category": "fat-loss",
-    "featured": false,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:48:06.426Z"
-  },
-  {
     "id": "sumatra-slim-belly-tonic",
     "name": "Sumatra Slim Belly Tonic",
     "category": "fat-loss",
@@ -244,6 +236,14 @@
     "name": "Java Burn",
     "category": "fat-loss",
     "featured": true,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:49:10.809Z"
+  },
+  {
+    "id": "puravive",
+    "name": "Puravive",
+    "category": "fat-loss",
+    "featured": false,
     "status": "published",
     "updatedAt": "2025-12-23T12:49:10.809Z"
   }
