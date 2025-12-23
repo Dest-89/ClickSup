@@ -6,12 +6,6 @@
     "updatedAt": "2025-12-23T08:11:15.705Z"
   },
   {
-    "slug": "nootropics-explained",
-    "title": "Nootropics Explained: A Beginner's Guide",
-    "status": "published",
-    "updatedAt": "2025-12-23T12:49:45.276Z"
-  },
-  {
     "slug": "how-to-choose-quality-supplements",
     "title": "How to Choose Quality Supplements",
     "status": "published",
@@ -50,6 +44,12 @@
   {
     "slug": "gut-health-microbiome-guide",
     "title": "Gut Health 101: Understanding Your Microbiome",
+    "status": "published",
+    "updatedAt": "2025-12-23T12:54:27.962Z"
+  },
+  {
+    "slug": "nootropics-explained",
+    "title": "Nootropics Explained: A Beginner's Guide",
     "status": "published",
     "updatedAt": "2025-12-23T12:54:27.962Z"
   }
