@@ -1,0 +1,44 @@
+{
+  "id": "prostadine",
+  "name": "Prostadine",
+  "brand": "Prostadine",
+  "category": "testosterone",
+  "shortDescription": "Premium prostate support formula with 9 natural ingredients for men's health.",
+  "longDescription": "Prostadine is the #1 men's health supplement on ClickBank, designed to support prostate health using a unique dropper formula with 9 powerful natural ingredients.\n\n## Complete Prostate Support\nAs men age, prostate health becomes increasingly important. Prostadine is formulated to provide comprehensive support.\n\n## Easy Liquid Formula\nThe dropper delivery system ensures optimal absorption of the natural ingredients.",
+  "ingredients": [
+    "Nori Yaki Extract",
+    "Wakame Extract",
+    "Kelp Powder",
+    "Bladderwrack Powder",
+    "Saw Palmetto",
+    "Pomegranate Extract",
+    "Iodine",
+    "Shilajit",
+    "Neem"
+  ],
+  "benefits": [
+    "Supports prostate health",
+    "Promotes healthy urinary function",
+    "Supports bladder control",
+    "Natural sea-based ingredients"
+  ],
+  "warnings": [
+    "For adult men only",
+    "Consult doctor if on medications",
+    "Not for women"
+  ],
+  "priceDisclaimer": "Bulk discounts available. 60-day guarantee.",
+  "affiliateHoplink": "https://hop.clickbank.net/?affiliate=dst11&vendor=prostadine",
+  "rating": 4.7,
+  "tags": [
+    "prostate",
+    "mens-health",
+    "urinary",
+    "natural"
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&q=80&w=800",
+  "featured": true,
+  "status": "published",
+  "createdAt": "2025-12-23T12:34:38.686Z",
+  "updatedAt": "2025-12-23T12:34:38.686Z"
+}
