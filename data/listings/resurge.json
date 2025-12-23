@@ -1,0 +1,43 @@
+{
+  "id": "resurge",
+  "name": "Resurge",
+  "brand": "Resurge",
+  "category": "sleep",
+  "shortDescription": "Deep sleep and metabolic support formula for overnight restoration.",
+  "longDescription": "Resurge is designed to support deep, restful sleep while also promoting healthy metabolism during your rest period.\n\n## Sleep Your Way to Better Health\nQuality sleep is essential for weight management, energy, and overall health. Resurge supports your body's natural sleep processes.\n\n## Wake Up Refreshed\nExperience the difference that deep, restorative sleep can make in your daily life.",
+  "ingredients": [
+    "Melatonin",
+    "Ashwagandha",
+    "Hydroxytryptophan",
+    "L-Theanine",
+    "Magnesium",
+    "Zinc",
+    "Arginine",
+    "Lysine"
+  ],
+  "benefits": [
+    "Supports deep sleep",
+    "Promotes metabolic health",
+    "Enhances next-day energy",
+    "Supports stress relief"
+  ],
+  "warnings": [
+    "May cause drowsiness",
+    "Do not drive after taking",
+    "Consult doctor if on sleep medications"
+  ],
+  "priceDisclaimer": "60-day money-back guarantee.",
+  "affiliateHoplink": "https://hop.clickbank.net/?affiliate=dst11&vendor=resurge",
+  "rating": 4.5,
+  "tags": [
+    "sleep",
+    "metabolism",
+    "relaxation",
+    "recovery"
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&q=80&w=800",
+  "featured": true,
+  "status": "published",
+  "createdAt": "2025-12-23T12:34:38.686Z",
+  "updatedAt": "2025-12-23T12:34:38.686Z"
+}
