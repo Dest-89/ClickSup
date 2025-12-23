@@ -1,0 +1,44 @@
+{
+  "id": "synogut",
+  "name": "SynoGut",
+  "brand": "SynoGut",
+  "category": "gut",
+  "shortDescription": "Natural digestive support with fiber, probiotics, and soothing herbs.",
+  "longDescription": "SynoGut is a comprehensive gut health formula that combines natural laxatives, fiber, and probiotics to support healthy digestion and regularity.\n\n## Three-Pronged Approach\n- Natural laxatives for gentle regularity\n- Fiber for digestive bulk and feeding good bacteria\n- Probiotics for gut flora balance\n\n## Made in USA\nManufactured in FDA-registered facility following strict quality standards.",
+  "ingredients": [
+    "Psyllium Husk",
+    "Bentonite Clay",
+    "Black Walnut",
+    "Flaxseed",
+    "Prune",
+    "Aloe Vera",
+    "Lactobacillus Acidophilus",
+    "Apple Pectin"
+  ],
+  "benefits": [
+    "Supports healthy digestion",
+    "Promotes regularity",
+    "Balances gut flora",
+    "Gentle and natural"
+  ],
+  "warnings": [
+    "Drink plenty of water",
+    "May cause initial bloating",
+    "Consult doctor if on medications"
+  ],
+  "priceDisclaimer": "60-day satisfaction guarantee.",
+  "affiliateHoplink": "https://hop.clickbank.net/?affiliate=dst11&vendor=synogut",
+  "rating": 4.5,
+  "tags": [
+    "gut",
+    "digestion",
+    "probiotics",
+    "fiber",
+    "regularity"
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&q=80&w=800",
+  "featured": true,
+  "status": "published",
+  "createdAt": "2025-12-23T12:34:38.686Z",
+  "updatedAt": "2025-12-23T12:34:38.686Z"
+}
