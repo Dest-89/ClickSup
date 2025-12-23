@@ -1,0 +1,41 @@
+{
+  "id": "mitolyn",
+  "name": "Mitolyn",
+  "brand": "Mitolyn",
+  "category": "fat-loss",
+  "shortDescription": "Revolutionary weight loss supplement targeting mitochondrial function for enhanced metabolism.",
+  "longDescription": "Mitolyn is ClickBank's #1 weight loss supplement, designed to optimize your body's natural fat-burning processes by supporting healthy mitochondrial function.\n\n## How It Works\nMitolyn contains a powerful blend of natural ingredients that support your body's cellular energy production, helping you burn more calories throughout the day.\n\n## Why Choose Mitolyn?\n- Supports healthy metabolism\n- Promotes natural energy levels\n- Made with premium natural ingredients\n- 60-day money-back guarantee",
+  "ingredients": [
+    "Maqui Berry",
+    "Rhodiola",
+    "Haematococcus",
+    "Amla",
+    "Theobroma Cacao",
+    "Schisandra"
+  ],
+  "benefits": [
+    "Supports healthy metabolism",
+    "Promotes natural energy",
+    "Enhances mitochondrial function",
+    "Supports healthy weight management"
+  ],
+  "warnings": [
+    "Consult your doctor before use",
+    "Not for pregnant or nursing women",
+    "Keep out of reach of children"
+  ],
+  "priceDisclaimer": "Special pricing available on official website. Results may vary.",
+  "affiliateHoplink": "https://hop.clickbank.net/?affiliate=dst11&vendor=mitolyn",
+  "rating": 4.8,
+  "tags": [
+    "metabolism",
+    "energy",
+    "weight-loss",
+    "natural"
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&q=80&w=800",
+  "featured": true,
+  "status": "published",
+  "createdAt": "2025-12-23T12:34:38.685Z",
+  "updatedAt": "2025-12-23T12:34:38.686Z"
+}
