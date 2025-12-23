@@ -230,5 +230,13 @@
     "featured": true,
     "status": "published",
     "updatedAt": "2025-12-23T12:34:38.686Z"
+  },
+  {
+    "id": "sugar-defender",
+    "name": "Sugar Defender",
+    "category": "other",
+    "featured": false,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:34:38.686Z"
   }
 ]
