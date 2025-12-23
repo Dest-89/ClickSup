@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "prostadine",
-    "name": "Prostadine",
-    "category": "testosterone",
-    "featured": true,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:48:06.426Z"
-  },
-  {
     "id": "alpha-tonic",
     "name": "Alpha Tonic",
     "category": "testosterone",
@@ -243,6 +235,14 @@
     "id": "all-day-slimming-tea",
     "name": "All Day Slimming Tea",
     "category": "fat-loss",
+    "featured": true,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:49:10.809Z"
+  },
+  {
+    "id": "prostadine",
+    "name": "Prostadine",
+    "category": "testosterone",
     "featured": true,
     "status": "published",
     "updatedAt": "2025-12-23T12:49:10.809Z"
