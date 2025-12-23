@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "biofit",
-    "name": "BioFit",
-    "category": "gut",
-    "featured": false,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:49:10.809Z"
-  },
-  {
     "id": "gut-vita",
     "name": "Gut Vita",
     "category": "gut",
@@ -303,5 +295,16 @@
     "imageUrl": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&q=80&w=800",
     "shortDescription": "Natural digestive support with fiber, probiotics, and soothing herbs.",
     "rating": 4.5
+  },
+  {
+    "id": "biofit",
+    "name": "BioFit",
+    "category": "gut",
+    "featured": false,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:53:51.969Z",
+    "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&q=80&w=800",
+    "shortDescription": "7-strain probiotic blend for weight management and gut health.",
+    "rating": 4.4
   }
 ]
