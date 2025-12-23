@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "resurge",
-    "name": "Resurge",
-    "category": "sleep",
-    "featured": true,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:34:38.686Z"
-  },
-  {
     "id": "sleep-guard-plus",
     "name": "Sleep Guard Plus",
     "category": "sleep",
@@ -244,6 +236,14 @@
     "name": "EndoPeak",
     "category": "testosterone",
     "featured": false,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:48:06.426Z"
+  },
+  {
+    "id": "resurge",
+    "name": "Resurge",
+    "category": "sleep",
+    "featured": true,
     "status": "published",
     "updatedAt": "2025-12-23T12:48:06.426Z"
   }
