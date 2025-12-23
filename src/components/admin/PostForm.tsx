@@ -13,7 +13,6 @@ import matter from "gray-matter";
 export default function PostForm({ initialData, rawContent }: { initialData?: any, rawContent?: string }) {
   const [loading, setLoading] = useState(false);
   const router = useRouter();
-  const { toast } = useToast();
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();

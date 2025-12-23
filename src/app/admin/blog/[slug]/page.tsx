@@ -1,15 +1,11 @@
-import { protectAdmin } from "@/lib/auth";
-import { getPost } from "@/lib/githubDb";
-import PostForm from "@/components/admin/PostForm";
-import { notFound } from "next/navigation";
-import matter from "gray-matter";
+export async function generateStaticParams() {
+  return [];
+}
 
-export default async function EditPost({ params }: { params: { slug: string } }) {
-  await protectAdmin();
-  const raw = await getPost(params.slug);
-  if (!raw) notFound();
-
-  const { data, content } = matter(raw);
-
-  return <PostForm initialData={data} rawContent={content} />;
+export default function AdminPage() {
+  return (
+    <div className="p-8 text-center">
+      <p>Admin not available in static mode.</p>
+    </div>
+  );
 }

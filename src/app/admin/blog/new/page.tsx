@@ -1,7 +1,5 @@
-import { protectAdmin } from "@/lib/auth";
-import PostForm from "@/components/admin/PostForm";
+import { redirect } from "next/navigation";
 
-export default async function NewPost() {
-  await protectAdmin();
-  return <PostForm />;
+export default function AdminPage() {
+  redirect("/admin");
 }

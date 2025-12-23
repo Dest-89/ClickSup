@@ -1,12 +1,11 @@
-import { protectAdmin } from "@/lib/auth";
-import { getListing } from "@/lib/githubDb";
-import ListingForm from "@/components/admin/ListingForm";
-import { notFound } from "next/navigation";
+export async function generateStaticParams() {
+  return [];
+}
 
-export default async function EditListing({ params }: { params: { id: string } }) {
-  await protectAdmin();
-  const listing = await getListing(params.id);
-  if (!listing) notFound();
-
-  return <ListingForm initialData={listing} />;
+export default function AdminPage() {
+  return (
+    <div className="p-8 text-center">
+      <p>Admin not available in static mode.</p>
+    </div>
+  );
 }

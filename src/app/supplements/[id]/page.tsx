@@ -1,9 +1,14 @@
-import { getListing, getSettings } from "@/lib/githubDb";
+import { getListing, getSettings, listListings } from "@/lib/githubDb";
 import { notFound } from "next/navigation";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import Link from "next/link";
+
+export async function generateStaticParams() {
+  const listings = await listListings();
+  return listings.map((l: any) => ({ id: l.id }));
+}
 
 export default async function SupplementDetail({ params }: { params: { id: string } }) {
   const listing = await getListing(params.id);

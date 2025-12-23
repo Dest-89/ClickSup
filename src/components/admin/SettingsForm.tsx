@@ -8,7 +8,6 @@ import { toast } from "sonner";
 
 export default function SettingsForm({ initialData }: { initialData: any }) {
   const [loading, setLoading] = useState(false);
-  const { toast } = useToast();
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();

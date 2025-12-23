@@ -67,6 +67,22 @@ npm run lint     # Run ESLint
 - **Forms**: Contact and newsletter with GitHub-based storage
 - **Auto-seeding**: Creates sample data on first run
 
+## Admin Access
+The `/admin` dashboard is **private** and only accessible to the owner (Dest-89).
+- Protected by session-based authentication
+- Requires `ADMIN_EMAIL` and `ADMIN_PASSWORD_HASH` environment variables
+- Do not share admin credentials
+
+## Deployment
+Recommended: **Vercel** (free tier, full Next.js support)
+
+1. Push to GitHub
+2. Import repo at vercel.com/new
+3. Add environment variables (from `.env.example`)
+4. Deploy
+
+Note: GitHub Pages won't work - this app needs a server for API routes and admin features.
+
 ## Important Notes
 - The `githubDb.ts` handles all GitHub API interactions
 - 404s on GET requests return `null` (not errors) for graceful handling

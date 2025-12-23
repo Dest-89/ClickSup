@@ -14,7 +14,6 @@ import { toast } from "sonner";
 export default function ListingForm({ initialData }: { initialData?: any }) {
   const [loading, setLoading] = useState(false);
   const router = useRouter();
-  const { toast } = useToast();
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();

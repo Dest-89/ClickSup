@@ -9,7 +9,6 @@ import { toast } from "sonner";
 
 export default function NewsletterPage() {
   const [loading, setLoading] = useState(false);
-  const { toast } = useToast();
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();

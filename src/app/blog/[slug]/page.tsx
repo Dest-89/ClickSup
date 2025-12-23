@@ -1,8 +1,13 @@
-import { getPost } from "@/lib/githubDb";
+import { getPost, listPosts } from "@/lib/githubDb";
 import { notFound } from "next/navigation";
 import { MDXRemote } from "next-mdx-remote/rsc";
 import matter from "gray-matter";
 import Link from "next/link";
+
+export async function generateStaticParams() {
+  const posts = await listPosts();
+  return posts.map((p: any) => ({ slug: p.slug }));
+}
 
 export default async function BlogPost({ params }: { params: { slug: string } }) {
   const rawContent = await getPost(params.slug);
