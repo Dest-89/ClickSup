@@ -1,0 +1,42 @@
+{
+  "id": "genius-wave",
+  "name": "Genius Wave",
+  "brand": "Genius Wave",
+  "category": "nootropics",
+  "shortDescription": "Theta brainwave audio program combined with cognitive nutrients.",
+  "longDescription": "Genius Wave is a unique approach to brain enhancement that combines theta wave audio technology with supportive nutrients for optimal cognitive function.\n\n## Brainwave Optimization\nTheta brainwaves are associated with creativity, intuition, and deep relaxation. This program helps activate these beneficial brain states.\n\n## Easy Daily Use\nSimply use the audio program and supplements as directed to support your mental performance.",
+  "ingredients": [
+    "Lion's Mane Mushroom",
+    "Ginkgo Biloba",
+    "Rhodiola Rosea",
+    "Omega-3 DHA",
+    "B12",
+    "Phosphatidylserine"
+  ],
+  "benefits": [
+    "Supports creative thinking",
+    "Enhances focus",
+    "Promotes mental clarity",
+    "Supports learning ability"
+  ],
+  "warnings": [
+    "Use headphones for audio program",
+    "Not for those with epilepsy",
+    "Consult doctor before use"
+  ],
+  "priceDisclaimer": "Digital + supplement bundle available.",
+  "affiliateHoplink": "https://hop.clickbank.net/?affiliate=dst11&vendor=geniuswave",
+  "rating": 4.4,
+  "tags": [
+    "brain",
+    "creativity",
+    "focus",
+    "brainwaves",
+    "nootropic"
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1617791160505-6f00504e3519?auto=format&fit=crop&q=80&w=800",
+  "featured": false,
+  "status": "published",
+  "createdAt": "2025-12-23T12:34:38.686Z",
+  "updatedAt": "2025-12-23T12:34:38.686Z"
+}
