@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "joint-genesis",
-    "name": "Joint Genesis",
-    "category": "joint",
-    "featured": true,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:34:38.686Z"
-  },
-  {
     "id": "balmorex-pro",
     "name": "Balmorex Pro",
     "category": "joint",
@@ -244,6 +236,14 @@
     "name": "Mind Vitality",
     "category": "nootropics",
     "featured": false,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:48:06.426Z"
+  },
+  {
+    "id": "joint-genesis",
+    "name": "Joint Genesis",
+    "category": "joint",
+    "featured": true,
     "status": "published",
     "updatedAt": "2025-12-23T12:48:06.426Z"
   }
