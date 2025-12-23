@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "prostadine",
-    "name": "Prostadine",
-    "category": "testosterone",
-    "featured": true,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:49:10.809Z"
-  },
-  {
     "id": "alpha-tonic",
     "name": "Alpha Tonic",
     "category": "testosterone",
@@ -260,6 +252,17 @@
     "updatedAt": "2025-12-23T12:53:51.969Z",
     "imageUrl": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&q=80&w=800",
     "shortDescription": "Natural tea blend inspired by Costa Rican Blue Zone for metabolism and detox.",
+    "rating": 4.7
+  },
+  {
+    "id": "prostadine",
+    "name": "Prostadine",
+    "category": "testosterone",
+    "featured": true,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:53:51.969Z",
+    "imageUrl": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&q=80&w=800",
+    "shortDescription": "Premium prostate support formula with 9 natural ingredients for men's health.",
     "rating": 4.7
   }
 ]
