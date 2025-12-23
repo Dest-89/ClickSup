@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "joint-restore-gummies",
-    "name": "Joint Restore Gummies",
-    "category": "joint",
-    "featured": false,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:49:10.809Z"
-  },
-  {
     "id": "synogut",
     "name": "SynoGut",
     "category": "gut",
@@ -297,5 +289,16 @@
     "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800",
     "shortDescription": "27-in-1 topical formula for joint and back support with fast-acting relief.",
     "rating": 4.5
+  },
+  {
+    "id": "joint-restore-gummies",
+    "name": "Joint Restore Gummies",
+    "category": "joint",
+    "featured": false,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:53:51.969Z",
+    "imageUrl": "https://images.unsplash.com/photo-1598046937895-2be846e03f0e?auto=format&fit=crop&q=80&w=800",
+    "shortDescription": "Delicious CBD-infused gummies for joint comfort and mobility support.",
+    "rating": 4.4
   }
 ]
