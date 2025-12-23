@@ -1,0 +1,43 @@
+{
+  "id": "immune-defense-4x",
+  "name": "Immune Defense 4X",
+  "brand": "VitalFlow",
+  "category": "immune",
+  "shortDescription": "Quadruple-action immune support with elderberry, zinc, vitamin C, and echinacea.",
+  "longDescription": "Immune Defense 4X combines four of nature's most powerful immune supporters in one comprehensive formula.\n\n## Four Pillars of Immunity\n- Elderberry: Traditional immune support\n- Zinc: Essential mineral for immune function\n- Vitamin C: Antioxidant protection\n- Echinacea: Herbal immune booster\n\n## Year-Round Protection\nDon't wait until cold season - support your immune system daily.",
+  "ingredients": [
+    "Elderberry Extract",
+    "Zinc",
+    "Vitamin C",
+    "Echinacea",
+    "Garlic",
+    "Vitamin D3",
+    "Probiotics"
+  ],
+  "benefits": [
+    "Supports immune function",
+    "Provides antioxidant protection",
+    "Promotes overall wellness",
+    "Year-round support"
+  ],
+  "warnings": [
+    "Not a cure for any disease",
+    "Consult doctor if immunocompromised",
+    "May interact with immunosuppressants"
+  ],
+  "priceDisclaimer": "Family packs available.",
+  "affiliateHoplink": "https://hop.clickbank.net/?affiliate=dst11&vendor=immunedefense",
+  "rating": 4.5,
+  "tags": [
+    "immune",
+    "elderberry",
+    "vitamin-c",
+    "zinc",
+    "wellness"
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?auto=format&fit=crop&q=80&w=800",
+  "featured": true,
+  "status": "published",
+  "createdAt": "2025-12-23T12:34:38.686Z",
+  "updatedAt": "2025-12-23T12:34:38.686Z"
+}
