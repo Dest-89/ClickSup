@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "sleep-guard-plus",
-    "name": "Sleep Guard Plus",
-    "category": "sleep",
-    "featured": false,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:49:10.809Z"
-  },
-  {
     "id": "relaxium-sleep",
     "name": "Relaxium Sleep",
     "category": "sleep",
@@ -276,5 +268,16 @@
     "imageUrl": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&q=80&w=800",
     "shortDescription": "Deep sleep and metabolic support formula for overnight restoration.",
     "rating": 4.5
+  },
+  {
+    "id": "sleep-guard-plus",
+    "name": "Sleep Guard Plus",
+    "category": "sleep",
+    "featured": false,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:53:51.969Z",
+    "imageUrl": "https://images.unsplash.com/photo-1531353826977-0941b4779a1c?auto=format&fit=crop&q=80&w=800",
+    "shortDescription": "Natural sleep support with calming botanicals for peaceful nights.",
+    "rating": 4.3
   }
 ]
