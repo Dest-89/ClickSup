@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "vitamin-d3-k2",
-    "name": "Vitamin D3 + K2",
-    "category": "immune",
-    "featured": false,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:49:10.809Z"
-  },
-  {
     "id": "keto-complete",
     "name": "Keto Complete",
     "category": "keto",
@@ -315,5 +307,16 @@
     "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&q=80&w=800",
     "shortDescription": "10-mushroom blend for immune support and overall vitality.",
     "rating": 4.4
+  },
+  {
+    "id": "vitamin-d3-k2",
+    "name": "Vitamin D3 + K2",
+    "category": "immune",
+    "featured": false,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:53:51.969Z",
+    "imageUrl": "https://images.unsplash.com/photo-1471864190281-a93a3070b6de?auto=format&fit=crop&q=80&w=800",
+    "shortDescription": "Synergistic vitamin duo for immune health, bone strength, and heart support.",
+    "rating": 4.6
   }
 ]
