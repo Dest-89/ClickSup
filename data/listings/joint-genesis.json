@@ -1,0 +1,41 @@
+{
+  "id": "joint-genesis",
+  "name": "Joint Genesis",
+  "brand": "Joint Genesis",
+  "category": "joint",
+  "shortDescription": "Revolutionary joint support targeting synovial fluid for smooth, comfortable movement.",
+  "longDescription": "Joint Genesis works by supporting your body's production of synovial fluid - the lubricating fluid that keeps joints moving smoothly.\n\n## The WD-40 for Your Joints\nThink of synovial fluid as the WD-40 for your body's hinges. Joint Genesis helps maintain healthy levels of this crucial joint lubricant.\n\n## French Maritime Pine Bark\nFeatures Mobilee®, a patented ingredient clinically shown to support joint comfort and mobility.",
+  "ingredients": [
+    "Mobilee",
+    "French Maritime Pine Bark",
+    "Ginger Root",
+    "Boswellia Serrata",
+    "BioPerine",
+    "Hyaluronic Acid"
+  ],
+  "benefits": [
+    "Supports synovial fluid",
+    "Promotes joint comfort",
+    "Enhances flexibility",
+    "Supports cartilage health"
+  ],
+  "warnings": [
+    "Consult doctor if on blood thinners",
+    "Not for pregnant women",
+    "May take 4-6 weeks for full effects"
+  ],
+  "priceDisclaimer": "180-day money-back guarantee.",
+  "affiliateHoplink": "https://hop.clickbank.net/?affiliate=dst11&vendor=jointgenesis",
+  "rating": 4.7,
+  "tags": [
+    "joint",
+    "mobility",
+    "flexibility",
+    "comfort"
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&q=80&w=800",
+  "featured": true,
+  "status": "published",
+  "createdAt": "2025-12-23T12:34:38.686Z",
+  "updatedAt": "2025-12-23T12:34:38.686Z"
+}
