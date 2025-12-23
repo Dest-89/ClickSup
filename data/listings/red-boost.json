@@ -1,0 +1,40 @@
+{
+  "id": "red-boost",
+  "name": "Red Boost",
+  "brand": "Red Boost",
+  "category": "testosterone",
+  "shortDescription": "Natural male performance powder supporting blood flow and stamina.",
+  "longDescription": "Red Boost is formulated to support healthy blood flow and male vitality using powerful natural ingredients backed by scientific research.\n\n## Supports Healthy Blood Flow\nProper circulation is essential for male performance. Red Boost targets this fundamental aspect of men's health.\n\n## Premium Formula\nEach ingredient is carefully selected for quality and potency.",
+  "ingredients": [
+    "Icariin",
+    "Tongkat Ali",
+    "Fenugreek",
+    "Citrulline",
+    "Nettle Root"
+  ],
+  "benefits": [
+    "Supports healthy blood flow",
+    "Enhances energy levels",
+    "Promotes male vitality",
+    "Supports stamina"
+  ],
+  "warnings": [
+    "For adult men only",
+    "Consult healthcare provider",
+    "Not for use with blood thinners"
+  ],
+  "priceDisclaimer": "Special online pricing available.",
+  "affiliateHoplink": "https://hop.clickbank.net/?affiliate=dst11&vendor=hwtonic",
+  "rating": 4.4,
+  "tags": [
+    "blood-flow",
+    "stamina",
+    "mens-health",
+    "performance"
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800",
+  "featured": false,
+  "status": "published",
+  "createdAt": "2025-12-23T12:34:38.686Z",
+  "updatedAt": "2025-12-23T12:34:38.686Z"
+}
