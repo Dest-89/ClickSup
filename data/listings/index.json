@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "prodentim",
-    "name": "ProDentim",
-    "category": "other",
-    "featured": true,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:48:06.426Z"
-  },
-  {
     "id": "sugar-defender",
     "name": "Sugar Defender",
     "category": "other",
@@ -244,6 +236,14 @@
     "name": "Perfect Keto MCT Oil",
     "category": "keto",
     "featured": false,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:49:10.809Z"
+  },
+  {
+    "id": "prodentim",
+    "name": "ProDentim",
+    "category": "other",
+    "featured": true,
     "status": "published",
     "updatedAt": "2025-12-23T12:49:10.809Z"
   }
