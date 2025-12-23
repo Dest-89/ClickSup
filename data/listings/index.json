@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "relaxium-sleep",
-    "name": "Relaxium Sleep",
-    "category": "sleep",
-    "featured": false,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:34:38.686Z"
-  },
-  {
     "id": "neuro-thrive",
     "name": "Neuro-Thrive",
     "category": "nootropics",
@@ -242,6 +234,14 @@
   {
     "id": "sleep-guard-plus",
     "name": "Sleep Guard Plus",
+    "category": "sleep",
+    "featured": false,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:48:06.426Z"
+  },
+  {
+    "id": "relaxium-sleep",
+    "name": "Relaxium Sleep",
     "category": "sleep",
     "featured": false,
     "status": "published",
