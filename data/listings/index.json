@@ -62,5 +62,13 @@
     "featured": false,
     "status": "published",
     "updatedAt": "2025-12-23T12:34:38.686Z"
+  },
+  {
+    "id": "red-boost",
+    "name": "Red Boost",
+    "category": "testosterone",
+    "featured": false,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:34:38.686Z"
   }
 ]
