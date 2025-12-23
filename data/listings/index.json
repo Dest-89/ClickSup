@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "prodentim",
-    "name": "ProDentim",
-    "category": "other",
-    "featured": true,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:49:10.809Z"
-  },
-  {
     "id": "sugar-defender",
     "name": "Sugar Defender",
     "category": "other",
@@ -327,5 +319,16 @@
     "imageUrl": "https://images.unsplash.com/photo-1550989460-0adf9ea622e2?auto=format&fit=crop&q=80&w=800",
     "shortDescription": "Pure C8 MCT oil for rapid ketone production and sustained energy.",
     "rating": 4.7
+  },
+  {
+    "id": "prodentim",
+    "name": "ProDentim",
+    "category": "other",
+    "featured": true,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:53:51.969Z",
+    "imageUrl": "https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&q=80&w=800",
+    "shortDescription": "Probiotic candy with 3.5 billion CFU for oral health and fresh breath.",
+    "rating": 4.6
   }
 ]
