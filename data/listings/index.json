@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "red-boost",
-    "name": "Red Boost",
-    "category": "testosterone",
-    "featured": false,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:49:10.809Z"
-  },
-  {
     "id": "endopeak",
     "name": "EndoPeak",
     "category": "testosterone",
@@ -267,5 +259,16 @@
     "imageUrl": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&q=80&w=800",
     "shortDescription": "Himalayan-inspired vitality powder for men's energy and performance.",
     "rating": 4.5
+  },
+  {
+    "id": "red-boost",
+    "name": "Red Boost",
+    "category": "testosterone",
+    "featured": false,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:53:51.969Z",
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800",
+    "shortDescription": "Natural male performance powder supporting blood flow and stamina.",
+    "rating": 4.4
   }
 ]
