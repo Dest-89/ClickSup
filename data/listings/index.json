@@ -8,14 +8,6 @@
     "updatedAt": "2025-12-23T08:11:14.521Z"
   },
   {
-    "id": "mushroom-defense",
-    "name": "Mushroom Defense",
-    "category": "immune",
-    "featured": false,
-    "status": "published",
-    "updatedAt": "2025-12-23T12:48:06.426Z"
-  },
-  {
     "id": "vitamin-d3-k2",
     "name": "Vitamin D3 + K2",
     "category": "immune",
@@ -244,6 +236,14 @@
     "name": "Immune Defense 4X",
     "category": "immune",
     "featured": true,
+    "status": "published",
+    "updatedAt": "2025-12-23T12:49:10.809Z"
+  },
+  {
+    "id": "mushroom-defense",
+    "name": "Mushroom Defense",
+    "category": "immune",
+    "featured": false,
     "status": "published",
     "updatedAt": "2025-12-23T12:49:10.809Z"
   }
